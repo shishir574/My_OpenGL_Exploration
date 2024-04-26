@@ -29,6 +29,8 @@ camera Camera;
 texture brickTex;
 texture grassTex;
 
+//git
+
 GLfloat deltaTime = 0.0f;
 GLfloat lastTime = 0.0f;
 
